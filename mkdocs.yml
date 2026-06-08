@@ -1,0 +1,30 @@
+site_name: Cuan3D manual
+site_url: https://vegarylis.github.io/cuan3d-manual
+site_author: Paula Dicke
+site_dir: 'public/'
+docs_dir: 'docs'
+
+repo_url: https://github.com/vegarylis/cuan3d-manual
+
+copyright: CC BY-SA 4.0 Paula Dicke
+
+nav:
+    - About: 'index.md'
+    - Getting started: 'getting_started.md'
+    - Editing menu: 'editing_menu.md'
+        
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+
+extra_css: [extra.css]
+
+markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    
+
+

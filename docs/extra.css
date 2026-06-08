@@ -1,0 +1,35 @@
+.wy-side-nav-search {
+  /* background-color: #171d4d; */
+  background-color: #6ca7be;
+}
+
+/* .wy-nav-side {
+  background-color: #0b0e25;
+} */
+
+.wy-nav-top {
+  background-color: #6ca7be;
+}
+
+.rst-content .warning, .rst-content .bug {
+  /* background-color: #f8bae5; */
+  background-color: #fde8f6;
+}
+
+.rst-content .warning .admonition-title, .rst-content .bug .admonition-title {
+  background-color: #c61592;
+}
+
+.rst-content .info {
+  /* background-color: #f8bae5; */
+  background-color: #e6f0f4;
+}
+
+.rst-content .info .admonition-title {
+  background-color: #6ca7be;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+}
